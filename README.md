@@ -1,8 +1,8 @@
 # Bootstrap
 bootstrap practice
 
-[buttons & more]( https://juveriad.github.io/Bootstrap/buttons&more.html)
+[buttons & more]( https://juveriad.github.io/Bootstrap/Bootstrap%20Practice/buttons&more.html)
 
-[Bootstrap Form]( https://juveriad.github.io/Bootstrap/forms.html)
+[Bootstrap Form]( https://juveriad.github.io/Bootstrap/Bootstrap%20Practice/forms.html)
 
-[Grid layout]( https://juveriad.github.io/Bootstrap/grid.html)
+[Grid layout]( https://juveriad.github.io/Bootstrap/Bootstrap%20Practice/grid.html)
