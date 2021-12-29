@@ -19,3 +19,10 @@ body{
     color: #EA1C2C;
     background-color: #fff;
 }
+#headingGroup span{
+    color: #EA1C2C;
+}
+#headingGroup h1{
+   font-weight: 100;
+   font-size: 2rem;
+}
